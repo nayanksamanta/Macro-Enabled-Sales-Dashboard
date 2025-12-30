@@ -27,7 +27,7 @@ This assignment involves creating an interactive macro-enabled Excel dashboard u
 - Excel Formulas & Functions
 
 ## Dataset Used:
--<a href="https://github.com/sure-trust/NAYAN-SAMANTA-g9-ds/blob/main/Assignments/NayanSamanta_MacroDashboard.xlsm">NayanSamanta_MacroDashboard</a>
+-<a href="https://github.com/nayanksamanta/Macro-Enabled-Sales-Dashboard/blob/main/NayanSamanta_MacroDashboard.xlsm">NayanSamanta_MacroDashboard</a>
 
 ## KPIs:
 - Total Sales
@@ -50,7 +50,7 @@ This assignment involves creating an interactive macro-enabled Excel dashboard u
 
 - Best Region and Category Combination
 
-## Dashboard Interaction <a href="https://github.com/sure-trust/NAYAN-SAMANTA-g9-ds/blob/main/Assignments/Dashboard.png">View Dashboard</a>
+## Dashboard Interaction <a href="https://github.com/nayanksamanta/Macro-Enabled-Sales-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## How to Use the Project:
 
